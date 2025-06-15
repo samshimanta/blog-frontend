@@ -2,10 +2,12 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Api } from './@services/api';
 import { CommonModule } from '@angular/common';
+import { ButtonModule } from 'primeng/button';
+import { Landing } from './@pages/landing/landing';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet ,CommonModule ],
+  imports: [RouterOutlet ,CommonModule , ButtonModule,Landing],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
