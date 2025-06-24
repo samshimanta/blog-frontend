@@ -14,7 +14,8 @@ export const getPokemonFn = (): (id: number) => Observable<DisplayPokemon> => {
         map((p) => ({
           id: p.id,
           name: p.name,
-          img: p.sprites.front_shiny
+          img: p.sprites.front_shiny ,
+          abilities: p.abilities
         }))
       );
   }
