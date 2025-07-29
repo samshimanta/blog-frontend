@@ -11,6 +11,10 @@ import { CommonModule } from '@angular/common';
                 <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
                 <span class="text-muted-color text-2xl">Placerat in egestas erat...</span>
             </div>
+            <div class="col-span-12 text-center mt-20 mb-6">
+                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
+                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum</span>
+            </div>
 
             <div class="col-span-12 md:col-span-12 lg:col-span-4 p-0 lg:pr-8 lg:pb-8 mt-6 lg:mt-0">
                 <div style="height: 160px; padding: 2px; border-radius: 10px; background: linear-gradient(90deg, rgba(253, 228, 165, 0.2), rgba(187, 199, 205, 0.2)), linear-gradient(180deg, rgba(253, 228, 165, 0.2), rgba(187, 199, 205, 0.2))">
