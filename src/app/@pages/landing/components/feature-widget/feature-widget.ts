@@ -33,6 +33,14 @@ import { CommonModule } from '@angular/common';
                 <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
                 <span class="text-muted-color text-2xl">Placerat in egestas erat...</span>
             </div>
+             <div class="col-span-12 text-center mt-20 mb-6">
+                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
+                <span class="text-muted-color text-2xl">testing Git Dummy Text Lorem Ipsum testing Git</span>
+            </div>
+             <div class="col-span-12 text-center mt-20 mb-6">
+                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
+                <span class="text-muted-color text-2xl">testing Git Dummy Text Lorem Ipsum testing Git</span>
+            </div>
             <div class="col-span-12 text-center mt-20 mb-6">
                 <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
                 <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum</span>
