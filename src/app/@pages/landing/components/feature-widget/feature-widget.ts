@@ -7,67 +7,12 @@ import { CommonModule } from '@angular/common';
   template: `
      <div id="features" class="py-6 px-6 lg:px-20 mt-8 mx-0 lg:mx-20">
         <div class="grid grid-cols-12 gap-4 justify-center">
-            <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Placerat in egestas erat...</span>
-            </div>
-            <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum</span>
-            </div>
-                 <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Placerat in egestas erat...</span>
-            </div>
-            <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum</span>
-            </div>
-            <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum testing Git</span>
-            </div>
-             </div>
-                 <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Placerat in egestas erat...</span>
-            </div>
+            
              <div class="col-span-12 text-center mt-20 mb-6">
                 <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
                 <span class="text-muted-color text-2xl">testing Git Dummy Text Lorem Ipsum testing Git</span>
             </div>
-
-             <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum testing Git</span>
-            </div>
-             </div>
-                 <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Placerat in egestas erat...</span>
-            </div>
-             <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">testing Git Dummy Text Lorem Ipsum testing Git</span>
-            </div>
-             <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">testing Git Dummy Text Lorem Ipsum testing Git</span>
-            </div>
-            <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum</span>
-            </div>
-
-             <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">Dummy Text Lorem Ipsum testing Git</span>
-            </div>
-
-             <div class="col-span-12 text-center mt-20 mb-6">
-                <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 text-4xl">Marvelous Features</div>
-                <span class="text-muted-color text-2xl">testing Git Dummy Text Lorem Ipsum testing Git</span>
-            </div>
+            
 
             
 
